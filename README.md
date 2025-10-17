@@ -1,4 +1,4 @@
-## Vision Example — YOLOv11 Car Detection / Detección de Autos
+## YOLOv11 Car Detection / Detección de Autos
 
 This repository demonstrates object detection on video using YOLOv11. It includes a ready-to-run Jupyter notebook and sample videos.
 
